@@ -1,3 +1,8 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+<br/>
+
+
 - 👋 Hi, I’m @jamait
 - 👀 I’m interested in kubernetes, GO, Python, Homeassistant, Event driven architecture...
 - 🌱 I’m currently learning kubernetes...
